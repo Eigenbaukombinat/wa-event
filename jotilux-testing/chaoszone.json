@@ -64,7 +64,7 @@
                 {
                  "name":"exitScreneURL",
                  "type":"string",
-                 "value":"raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
+                 "value":"..\/..\/..\/..\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
                 }],
          "type":"tilelayer",
          "visible":true,
