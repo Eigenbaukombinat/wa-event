@@ -65,7 +65,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/floortileset.png",
+         "image":"..\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
