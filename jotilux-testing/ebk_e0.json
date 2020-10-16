@@ -74,7 +74,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_e1.json#exit_ebk_e0_hinten"
+                 "value":"ebk_e1.json#exit_ebk_e1_hinten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -92,7 +92,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_e1.json#exit_ebk_e0_vorn"
+                 "value":"ebk_e1.json#exit_ebk_e1_vorn"
                 }],
          "type":"tilelayer",
          "visible":true,
