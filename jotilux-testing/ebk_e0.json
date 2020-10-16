@@ -198,19 +198,6 @@
          "tilecount":256,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":32,
-         "firstgid":321,
-         "image":"..\/..\/ds2020workadventuretest\/zw-map\/tiles\/haus_a.png",
-         "imageheight":2048,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"haus_a",
-         "spacing":0,
-         "tilecount":2048,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
