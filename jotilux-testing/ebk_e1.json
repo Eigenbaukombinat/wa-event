@@ -1406,8 +1406,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":4,
          "firstgid":321,
-         "source":"ebk_tiles.tsx"
+         "image":"..\/ebk_tiles.png",
+         "imageheight":128,
+         "imagewidth":128,
+         "margin":0,
+         "name":"ebk_tiles",
+         "spacing":0,
+         "tilecount":16,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
