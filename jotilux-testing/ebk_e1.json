@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/scratch.mit.edu\/projects\/163427250\/fullscreen\/"
+                 "value":"https:\/\/scratch.mit.edu\/projects\/163427250\/embed"
                 }],
          "type":"tilelayer",
          "visible":true,
