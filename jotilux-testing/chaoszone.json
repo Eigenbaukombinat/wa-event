@@ -72,7 +72,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":"https:\/\/play.workadventu.re\/_\/global\/www.ccc-p.org\/machbar_map\/machbar.json"
                 }],
@@ -92,9 +92,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitScreneURL",
+                 "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
                 }],
          "type":"tilelayer",
          "visible":true,
