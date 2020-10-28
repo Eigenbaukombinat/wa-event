@@ -184,6 +184,12 @@
          "id":22,
          "name":"WebsiteCredits",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/pads.eigenbaukombinat.de\/jhAWyCkkSj2tFNWa3pgwKQ?edit"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
