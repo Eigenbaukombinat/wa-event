@@ -164,7 +164,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/dashboard.eigenbaukombinat.de"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
