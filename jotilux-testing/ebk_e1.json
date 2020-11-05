@@ -359,6 +359,12 @@
          "id":27,
          "name":"websiteWebsdr",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"http:\/\/websdr.hrad-doubravka.cz\/"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
