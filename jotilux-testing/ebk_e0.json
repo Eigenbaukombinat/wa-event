@@ -32,7 +32,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_garden.json"
+                 "value":".\/ebk_garden.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -50,7 +50,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_e1.json#exit_ebk_e1_hinten"
+                 "value":".\/ebk_e1.json#exit_ebk_e1_hinten"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -68,7 +68,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_e1.json#exit_ebk_e1_vorn"
+                 "value":".\/ebk_e1.json#exit_ebk_e1_vorn"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,7 +140,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"lab.json"
+                 "value":".\/lab.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -194,7 +194,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"ebk_e1.json#entry_EBK"
+                 "value":".\/ebk_e1.json#entry_EBK"
                 }],
          "type":"tilelayer",
          "visible":true,
