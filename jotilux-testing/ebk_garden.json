@@ -56,7 +56,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/jotilux-testing\/ebk_e0.json"
+                 "value":".\/ebk_e0.json#entry_garden"
                 }],
          "type":"tilelayer",
          "visible":true,
