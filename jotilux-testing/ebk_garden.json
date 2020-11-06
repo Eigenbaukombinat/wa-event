@@ -54,7 +54,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":".\/ebk_e0.json#entry-garden"
                 }],
