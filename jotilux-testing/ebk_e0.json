@@ -48,7 +48,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitUrl",
+                 "name":"exitSceneUrl",
                  "type":"string",
                  "value":".\/ebk_e1.json#entry_ebk_e1_hinten"
                 }],

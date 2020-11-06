@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/ebk_e0.json#exit_ebk_e0_lab"
+                 "value":".\/ebk_e0.json#entry_ebk_e0_lab"
                 }],
          "type":"tilelayer",
          "visible":true,
