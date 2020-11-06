@@ -30,7 +30,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/ebk_garden.json"
                 }],
@@ -48,7 +48,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/ebk_e1.json#exit_ebk_e1_hinten"
                 }],
@@ -66,7 +66,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/ebk_e1.json#exit_ebk_e1_vorn"
                 }],
@@ -138,7 +138,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/lab.json"
                 }],
