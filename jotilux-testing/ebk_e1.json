@@ -252,9 +252,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openStream",
                  "type":"string",
-                 "value":"https:\/\/audio.team-tfm.com"
+                 "value":"http:\/\/team-tfm.com:8000\/rc3"
                 }],
          "type":"tilelayer",
          "visible":true,
