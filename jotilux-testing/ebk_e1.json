@@ -252,7 +252,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openAudioStream",
+                 "name":"playAudio",
                  "type":"string",
                  "value":"http:\/\/team-tfm.com:8000\/rc3"
                 }],
