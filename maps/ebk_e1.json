@@ -482,13 +482,13 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/floortileset.png",
+         "image":"..\/tilesets\/floortileset.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -520,7 +520,7 @@
         {
          "columns":16,
          "firstgid":65,
-         "image":"..\/tilesets_deviant_milkian_1.png",
+         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1654,7 +1654,7 @@
         {
          "columns":4,
          "firstgid":321,
-         "image":"..\/ebk_tiles.png",
+         "image":"..\/tilesets\/ebk_tiles.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1704,7 +1704,7 @@
         {
          "columns":4,
          "firstgid":337,
-         "image":"..\/ebk_floortiles.png",
+         "image":"..\/tilesets\/ebk_floortiles.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1717,7 +1717,7 @@
         {
          "columns":4,
          "firstgid":353,
-         "image":"..\/ebk_nebel.png",
+         "image":"..\/tilesets\/ebk_nebel.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1730,7 +1730,7 @@
         {
          "columns":8,
          "firstgid":369,
-         "image":"..\/ebk_lights.png",
+         "image":"..\/tilesets\/ebk_lights.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -3128,7 +3128,7 @@
         {
          "columns":4,
          "firstgid":4673,
-         "image":"..\/lights_red.png",
+         "image":"..\/tilesets\/lights_red.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
