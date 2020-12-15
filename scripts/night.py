@@ -6,10 +6,11 @@ import sys
 import argparse
 
 parser = argparse.ArgumentParser()
+parser.add_argument("set_filename", help="set file name")
 parser.add_argument("set_nightoverlay_opacity", help="set opacity of nightoverlay layer")
 args = parser.parse_args()
 
-with open('ebk_garden.json') as infile:
+with open(args.set_filename) as infile:
     mapdata = json.load(infile)
 
 for layer in mapdata['layers']:
