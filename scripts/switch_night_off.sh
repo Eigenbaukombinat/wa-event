@@ -1,6 +1,9 @@
 git pull
 cd maps
-python3 ../scripts/night.py ebk_garden.json 0
+for x in `ls *.json`; do
+	echo $x;
+	python3 ../scripts/night.py $x 0;
+done
 cd ..
 git add .
 git commit -m "switch night off"
