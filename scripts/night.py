@@ -16,6 +16,7 @@ with open(args.set_filename) as infile:
 for layer in mapdata['layers']:
     if layer['name'] == 'Nightoverlay':
         layer['opacity'] = int(args.set_nightoverlay_opacity)
+        break
 
 with open('ebk_garden.json', 'w') as outfile:
     outfile.write(json.dumps(mapdata))
