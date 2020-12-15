@@ -1,3 +1,6 @@
+# usage: python3 night.py 1/0
+
+
 import json
 import sys
 import argparse
