@@ -18,5 +18,5 @@ for layer in mapdata['layers']:
         layer['opacity'] = int(args.set_nightoverlay_opacity)
         break
 
-with open(set_filename, 'w') as outfile:
+with open(args.set_filename, 'w') as outfile:
     outfile.write(json.dumps(mapdata))
