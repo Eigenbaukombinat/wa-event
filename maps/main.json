@@ -224,7 +224,7 @@
          "height":100,
          "id":31,
          "name":"Nightoverlay",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":50,
