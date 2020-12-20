@@ -122,7 +122,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/maps\/main.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3258,6 +3258,14 @@
          "tilecount":2048,
          "tileheight":32,
          "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":220,
+                         "tileid":321
+                        }],
+                 "id":0
+                }, 
                 {
                  "animation":[
                         {
