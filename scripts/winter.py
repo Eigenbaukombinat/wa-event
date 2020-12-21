@@ -15,12 +15,12 @@ with open(args.set_filename) as infile:
 
 for layer in mapdata['layers']:
     if layer['name'] == 'Winterwonderland_bottom':
-        layer['opacity'] = int(args.set_winteroverlay_opacity)
+        layer['opacity'] = float(args.set_winteroverlay_opacity)
         break
 
 for layer in mapdata['layers']:
     if layer['name'] == 'Winterwonderland_overlay':
-        layer['opacity'] = int(args.set_winteroverlay_opacity)
+        layer['opacity'] = float(args.set_winteroverlay_opacity)
         break
 
 with open(args.set_filename, 'w') as outfile:
