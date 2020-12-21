@@ -1,12 +1,12 @@
 git pull
 for x in `ls *.json`; do
         echo $x;
-        python3 ./scripts/winter.py $x 0,7;
+        python3 ./scripts/winter.py $x 0.7;
 done
 cd maps
 for x in `ls *.json`; do
 	echo $x;
-	python3 ../scripts/winter.py $x 0,7;
+	python3 ../scripts/winter.py $x 0.7;
 done
 cd ..
 git add .
