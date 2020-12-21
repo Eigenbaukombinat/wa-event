@@ -1,7 +1,7 @@
 git pull
 for x in `ls *.json`; do
         echo $x;
-        python3 ../scripts/night.py $x 0;
+        python3 ./scripts/night.py $x 0;
 done
 cd maps
 for x in `ls *.json`; do
