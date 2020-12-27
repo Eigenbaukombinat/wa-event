@@ -393,7 +393,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cfp.chaoszone.cz\/csr20\/schedule\/"
+                 "value":"https:\/\/rc3.world\/rc3\/public_fahrplan\/"
                 }],
          "type":"tilelayer",
          "visible":true,
