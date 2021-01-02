@@ -4350,7 +4350,7 @@
         {
          "columns":16,
          "firstgid":4877,
-         "image":"..\/..\/shared\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4363,7 +4363,7 @@
         {
          "columns":32,
          "firstgid":5133,
-         "image":"..\/..\/shared\/tiles\/chaos_zone_shared.png",
+         "image":"..\/tilesets\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
