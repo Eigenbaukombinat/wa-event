@@ -1,5 +1,5 @@
 # WorkAdventure Map - Eigenbaukombinat
-
-own map for [WorkAdventure Start main](https://test.visit.at.wa-test.rc3.cccv.de/_/global/raw.githubusercontent.com/Eigenbaukombinat/workadventuretest/master/main.json).
+* Our Workadventure Maps for Events with individual exits from time to time 
+own map for [WorkAdventure Start main](https://play.workadventu.re/_/global/raw.githubusercontent.com/Eigenbaukombinat/workadventuretest/master/main.json).
 
 
