@@ -21,12 +21,6 @@
          "id":9,
          "name":"exit_ebk_garden",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":""
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -283,7 +277,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":""
+                 "value":"world:\/\/chaoszone\/main.json#start_halle"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -447,6 +441,27 @@
  "nextlayerid":34,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC by SA Eigenbaukobinat Halle, jotilux, nilo, markus_be"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/Eigenbaukombinat\/wa-event"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -461,7 +476,7 @@
          "name":"floortileset",
          "properties":[
                 {
-                 "name":"copy",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"https:\/\/www.deviantart.com\/3lv3n\/art\/Grass-and-dungeon-floor-tile-map-with-some-snow-700702945"
                 }],
@@ -488,6 +503,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset?"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1069,6 +1090,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -3054,6 +3081,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy_overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -3067,6 +3100,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC By Chaozone shared"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -3324,6 +3363,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"jitsitiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"jitsitiles by Nilo"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -3337,6 +3382,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"nightoverlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -3350,6 +3401,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"winter",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -3376,6 +3433,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"tour-meeting-point",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -3389,6 +3452,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"divoc",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Divoc-tiles by divoc"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -3402,6 +3471,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"divoc-functional",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Divoc-tiles by divoc"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,

@@ -766,6 +766,27 @@
  "nextlayerid":52,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC by SA Eigenbaukobinat Halle, jotilux, nilo, markus_be"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/Eigenbaukombinat\/wa-event"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
@@ -778,6 +799,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"https:\/\/www.deviantart.com\/3lv3n\/art\/Grass-and-dungeon-floor-tile-map-with-some-snow-700702945"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -819,6 +846,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset?"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1980,6 +2013,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"ebk_stuff",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ebk_stuff by nilo"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2030,6 +2069,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"ebk_floor",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ebk_floor by nilo"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2043,6 +2088,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"ebk_nebel",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ebk_nebel by nilo"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2056,6 +2107,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"ebk_lights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ebk_lights by nilo"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -2069,6 +2126,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -3433,6 +3496,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaos_zone_shared",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC By Chaozone shared"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
@@ -3595,6 +3664,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy_overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya \nhttps:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
@@ -3608,6 +3683,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"jitsitiles",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"jitsitiles by Nilo"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -3621,6 +3702,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"light_white",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"light_white by Nilo"
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -3875,6 +3962,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"nightoverlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -3888,6 +3981,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"baellebad",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -3901,6 +4000,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"winter",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -3927,6 +4032,12 @@
          "imagewidth":1920,
          "margin":0,
          "name":"colors",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 by jotilux"
+                }],
          "spacing":0,
          "tilecount":120,
          "tileheight":32,
@@ -4421,6 +4532,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"tilesets_deviant_milkian_1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset?"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -4434,6 +4551,12 @@
          "imagewidth":1024,
          "margin":0,
          "name":"chaosz0ne",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC By Chaozone shared"
+                }],
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,

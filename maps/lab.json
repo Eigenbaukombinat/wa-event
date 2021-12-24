@@ -60,6 +60,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter in jitsi meet room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -105,6 +110,27 @@
  "nextlayerid":9,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"CC by SA Eigenbaukobinat Halle, jotilux, nilo, markus_be"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/Eigenbaukombinat\/wa-event"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Eigenbaukombinat_main"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
