@@ -261,7 +261,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/"
+                 "value":"https:\/\/eigenbaukombinat.de\/wp-content\/uploads\/2019\/10\/EBK_Grundriss.png"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -514,7 +514,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/"
+                 "value":"https:\/\/eigenbaukombinat.de\/wp-content\/uploads\/2019\/10\/EBK_Grundriss.png"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -682,7 +682,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/"
+                 "value":"https:\/\/eigenbaukombinat.de\/wp-content\/uploads\/2019\/10\/EBK_Grundriss.png"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -4653,27 +4653,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":16,
-         "firstgid":4877,
-         "image":"..\/tilesets\/tilesets_deviant_milkian_1.png",
-         "imageheight":512,
-         "imagewidth":512,
-         "margin":0,
-         "name":"tilesets_deviant_milkian_1",
-         "properties":[
-                {
-                 "name":"tilesetCopyright",
-                 "type":"string",
-                 "value":"FREE RPG Tileset?"
-                }],
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":32,
-         "firstgid":5133,
+         "firstgid":4877,
          "image":"..\/tilesets\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
