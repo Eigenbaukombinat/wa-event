@@ -292,7 +292,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/static.rc3.world\/contrib\/nextevent\/nextevent.html?assembly=chaoszone"
+                         "value":"https:\/\/static.rc3.world\/contrib\/nextevent\/nextevent.html?assembly=chaoszone&bg1=f00&bg2=0ff&fg=fff"
                         }],
                  "rotation":0,
                  "type":"website",
@@ -634,7 +634,7 @@
                  "value":"onaction"
                 }, 
                 {
-                 "name":"press SPACE to open Website",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"press SPACE to open Website"
                 }],
