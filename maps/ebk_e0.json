@@ -301,6 +301,11 @@
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
