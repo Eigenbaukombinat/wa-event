@@ -285,7 +285,7 @@
          "name":"nextevent",
          "objects":[
                 {
-                 "height":65.3333333333334,
+                 "height":111.333333333333,
                  "id":1,
                  "name":"website-nextevent",
                  "properties":[
@@ -297,12 +297,12 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":104,
-                 "x":306.666666666667,
-                 "y":798.666666666667
+                 "width":128,
+                 "x":288.666666666667,
+                 "y":763.666666666667
                 }, 
                 {
-                 "height":70,
+                 "height":158,
                  "id":4,
                  "name":"stream",
                  "properties":[
@@ -314,9 +314,9 @@
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":153,
+                 "width":223,
                  "x":65,
-                 "y":800
+                 "y":717
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -783,7 +783,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"shared-chaoszone"
+                 "value":"global-chaoszone"
                 }, 
                 {
                  "name":"jitsiTrigger",
