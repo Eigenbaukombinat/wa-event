@@ -300,6 +300,23 @@
                  "width":104,
                  "x":306.666666666667,
                  "y":798.666666666667
+                }, 
+                {
+                 "height":70,
+                 "id":4,
+                 "name":"stream",
+                 "properties":[
+                        {
+                         "name":"url",
+                         "type":"string",
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/chaoszone\/hls\/native"
+                        }],
+                 "rotation":0,
+                 "type":"website",
+                 "visible":true,
+                 "width":153,
+                 "x":65,
+                 "y":800
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -892,7 +909,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":4,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
