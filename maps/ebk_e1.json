@@ -783,7 +783,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"global-chaoszone"
+                 "value":"shared-chaoszone"
                 }, 
                 {
                  "name":"jitsiTrigger",
