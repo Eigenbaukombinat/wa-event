@@ -296,27 +296,27 @@
                         }],
                  "rotation":0,
                  "type":"website",
-                 "visible":true,
+                 "visible":false,
                  "width":128,
                  "x":288.666666666667,
                  "y":763.666666666667
                 }, 
                 {
-                 "height":158,
+                 "height":76,
                  "id":4,
                  "name":"stream",
                  "properties":[
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/chaoszone\/hls\/native"
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/c3lounge\/audio\/native"
                         }],
                  "rotation":0,
                  "type":"website",
                  "visible":true,
-                 "width":223,
+                 "width":150,
                  "x":65,
-                 "y":717
+                 "y":797
                 }],
          "opacity":1,
          "type":"objectgroup",
